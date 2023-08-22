@@ -1,7 +1,4 @@
-<<<<<<< HEAD
 This is my first test code, updated.
 Modified at DevOps1
 Again Modified at DevOps1
-=======
-This is my first test code, updated.
->>>>>>> parent of 9a90c05 (Added second line to text files)
+Merging test Devops1
